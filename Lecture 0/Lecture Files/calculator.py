@@ -11,10 +11,5 @@ def square(n):
     return pow(n,2)
 
 
-main()
-
-
-
-
-message = input("Message >> ").lower()
-print(message)
+if __name__ == "__main__":
+    main()
