@@ -1,0 +1,5 @@
+print(type(50))
+print(type("50"))
+print(type([50, 70]))
+print(type((50, 70)))
+print(type({"name": "Gus", "car": "Altima"}))
